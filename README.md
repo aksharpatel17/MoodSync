@@ -15,7 +15,7 @@ MoodSync is a web application that captures your mood through an uploaded photo 
 
 3. **PyTorch Model**
     - The PyTorch model analyzes the image and predicts the user's emotion.
-    - Emotion classes: 'anger', 'focus', 'happy', 'tired'.
+    - Emotion classes: 'happy', 'sad', 'focus', 'calm', 'angry'.
 
 4. **AWS Lambda Function**
     - Receives the emotion prediction result from the Flask server.
