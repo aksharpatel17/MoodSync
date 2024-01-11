@@ -26,6 +26,6 @@ MoodSync is a web application that captures your mood through an uploaded photo 
     - Periodically updates playlist files.
     - Ensures that the Lambda function receives the latest version of the playlist.
 
-6. **Back End (Flask) - Part 2**
+6. **Back End (Flask)**
     - Flask server receives the music playlist data from the Lambda function.
     - Displays featured music tailored to the user on the web interface.
